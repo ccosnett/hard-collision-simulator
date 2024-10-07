@@ -1,4 +1,4 @@
 # hard-collision-simulator
 
 
-![Simulation](gifs/simulation_.gif)
+![Simulation](gifs/simulation.gif)
